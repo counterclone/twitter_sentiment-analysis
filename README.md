@@ -1,0 +1,1 @@
+a Streamlit web app in Python to gathertweets in real-time using Selenium and BeautifulSoup. I applied a BERT-based model for sentiment analysis and integrated data analytics for visualizing trends. This project provided real-time sentiment analysis, offering businesses actionable insights and improving decision-making based on public opinion.
